@@ -1,0 +1,23 @@
+{
+  "name": "demodeos/router",
+  "description": "Basic router",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitriy Evseev",
+      "email": "workinweb2014@ya.ru"
+    }
+  ],
+  "require": {
+  
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Demodeos\\Router\\": "src"
+    }
+  }
+}
